@@ -2,7 +2,7 @@
 Use a text file to enter different exercises. 
 Provide 
 (each on its own line)
-# of exercises
+Number of exercises
 Min # of reps
 Max # of reps
 each exercise on its own line
