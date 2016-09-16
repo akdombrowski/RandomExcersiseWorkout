@@ -1,6 +1,6 @@
 # RandomExcersiseWorkout
 Use a text file to enter different exercises. 
-"/n"Provide 
+Provide 
 (each on its own line)
 Number of exercises
 Min # of reps
